@@ -22,28 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Educator
+    company: School Education Department, Punjab, Pakistan.
+    company_url: 'https://schools.punjab.gov.pk/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Sheikhupura
+    date_start: '2017-07-31'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Teaching
+        * Staff management
+        * Student counseling
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: research associate
+    company: Center of Advance Study and Punjab Agricultural Research Board
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Pakistan
+    date_start: '2017-03-01'
+    date_end: '2018-12-31'
+    description: Modeling approach for assessing the impact of climate change on growth and yield of wheat and groundnut and possible adaptation/management strategies     under rainfed condition
+    
+    - title: Internship
+    company: Agricultural Department Punjab
+    company_url: ''
+    company_logo: org-x
+    location: Pakistan
+    date_start: '2016-03-01'
+    date_end: '2016-16-01'
+    description:Experiment and Extension services on different crops 
 
 design:
   columns: '2'
