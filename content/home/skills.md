@@ -16,6 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+description: 100%
+    icon: f4bf
+    icon_pack: fab
+    name: Crop science
   - description: 90%
     icon: r-project
     icon_pack: fab
